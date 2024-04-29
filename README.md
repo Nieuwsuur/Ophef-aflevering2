@@ -15,8 +15,6 @@ Nadat je Python hebt geïnstalleerd, volg je deze stappen om de benodigde Python
 2. Navigeer naar de map waar je dit project hebt opgeslagen.
 3. Voer het volgende commando uit om de benodigde Python-bibliotheken te installeren:
 
-pip install -r requirements.txt
-of 
 pip install instagrapi
 en
 pip install Pillow
